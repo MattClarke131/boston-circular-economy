@@ -1,0 +1,133 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-09T16:34:49Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 5197250407,
+      "lat": 42.3461535,
+      "lon": -71.0874091,
+      "tags": {
+        "alt_name": "Guitar Center Rentals & Rentals",
+        "level": "0",
+        "name": "GC Garage",
+        "opening_hours": "Mo-Fr 11:00-19:00;Sa 10:00-19:00;Su 12:00-19:00",
+        "rental": "yes",
+        "repair": "yes",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372431948,
+      "lat": 42.4236979,
+      "lon": -71.1757635,
+      "tags": {
+        "addr:city": "Arlington",
+        "addr:housenumber": "1193B",
+        "addr:postcode": "02476",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "contact:facebook": "https://www.facebook.com/Collins-Office-Systems-Inc-339885679357635/",
+        "contact:fax": "+1-781-648-1628",
+        "contact:phone": "+1-781-648-1323",
+        "contact:website": "http://www.collinsofficesystems.net",
+        "description": "Typewriter Ribbons, Office Equipment Leasing, Printer Repair, Fax Machine, Laminating Machine Repair , Copy Machine Repair, Shredding Machines , Office Supply Sales, Toner Cartridges , Typewriter Repair",
+        "name": "Collins Office Systems, Inc.",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-13:00",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "repair": "yes",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9659819117,
+      "lat": 42.3519623,
+      "lon": -71.1276676,
+      "tags": {
+        "addr:city": "Allston",
+        "addr:housenumber": "6",
+        "addr:postcode": "02134",
+        "addr:state": "MA",
+        "addr:street": "Fordham Road",
+        "brand": "Apple",
+        "check_date": "2025-02-03",
+        "computer:brand": "Apple",
+        "computer:repair": "yes",
+        "computer:sales": "yes;used",
+        "contact:facebook": "https://www.facebook.com/p/The-Computer-Loft-100063792390864/",
+        "email": "service@computerloft.com",
+        "end_date": "2025-05-09",
+        "name": "The Computer Loft",
+        "not:brand:wikidata": "Q421253",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su off",
+        "operator": "Craig Marin",
+        "phone": "+1-617-782-9997",
+        "repair": "yes",
+        "second_hand": "yes",
+        "shop": "computer",
+        "website": "https://www.computerloft.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196453017,
+      "center": {
+        "lat": 42.4203054,
+        "lon": -71.1666562
+      },
+      "nodes": [
+        2067843808,
+        2067845054,
+        2067845034,
+        2067843794,
+        2067843808
+      ],
+      "tags": {
+        "addr:city": "Arlington",
+        "addr:housenumber": "36",
+        "addr:postcode": "02476",
+        "addr:state": "MA",
+        "addr:street": "Dudley Street",
+        "building": "yes",
+        "name": "Bruce's Tire & Services Inc",
+        "repair": "yes",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1195624141,
+      "center": {
+        "lat": 42.3694871,
+        "lon": -71.1524133
+      },
+      "nodes": [
+        11097239228,
+        11097239227,
+        329756953,
+        329724880,
+        329466512,
+        329480346,
+        11097239228
+      ],
+      "tags": {
+        "addr:housenumber": "79",
+        "addr:street": "Grove Street",
+        "building": "yes",
+        "name": "City Pump & Motor Service Inc.",
+        "repair": "pump;motor",
+        "shop": "repair"
+      }
+    }
+  ]
+}

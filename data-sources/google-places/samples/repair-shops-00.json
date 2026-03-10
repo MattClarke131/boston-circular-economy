@@ -1,0 +1,277 @@
+{
+  "places": [
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "914 Huntington Ave, Boston, MA 02115, USA",
+      "displayName": {
+        "text": "Mike's Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_dealer",
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "43 Preble St, South Boston, MA 02127, USA",
+      "displayName": {
+        "text": "Fran's Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "tire_shop",
+        "auto_parts_store",
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "251 Prospect St, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "Foreign Auto Center, Inc.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "475 Centre St, Jamaica Plain, MA 02130, USA",
+      "displayName": {
+        "text": "Morrison's Auto-Rite Inc",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "auto_parts_store",
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "14 Rena St, Allston, MA 02134, USA",
+      "displayName": {
+        "text": "Ming's Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "24 Shetland St, Boston, MA 02119, USA",
+      "displayName": {
+        "text": "A To Z Auto Repair Inc",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1008 Tremont St, Boston, MA 02120, USA",
+      "displayName": {
+        "text": "Mobile Mechanic Pros Boston",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "45 Stuart St Suite #703, Boston, MA 02116, USA",
+      "displayName": {
+        "text": "Autos & Trucks Mobile Mechanics - ATMM",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "619 Columbia Rd, Dorchester, MA 02125, USA",
+      "displayName": {
+        "text": "Anthony's Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "tire_shop",
+        "auto_parts_store",
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "785 Tremont St, Boston, MA 02118, USA",
+      "displayName": {
+        "text": "Ell-Bern Automotive Service & Tires Inc.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "medical_clinic",
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "health",
+        "establishment"
+      ],
+      "formattedAddress": "Roxbury Crossing, Mission Hill, 22 Terrace St, Boston, MA 02120, USA",
+      "displayName": {
+        "text": "New England Brake and Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1090 Commonwealth Ave, Boston, MA 02215, USA",
+      "displayName": {
+        "text": "Swedish Motors",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1168 Commonwealth Ave, Boston, MA 02134, USA",
+      "displayName": {
+        "text": "Herb Chambers MINI of Boston Service Center",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "75 Hamilton St, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "Good News Garage",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "480 Dorchester Ave, Boston, MA 02127, USA",
+      "displayName": {
+        "text": "E&S Automotive",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "42 Joy St, Somerville, MA 02143, USA",
+      "displayName": {
+        "text": "BBC Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "405 Cambridge St, Allston, MA 02134, USA",
+      "displayName": {
+        "text": "A and I Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "66 Von Hillern St Suite A, Dorchester, MA 02125, USA",
+      "displayName": {
+        "text": "South Boston Auto Tech Inc.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "51 Park St, Dorchester, MA 02122, USA",
+      "displayName": {
+        "text": "Arthur's Auto Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "car_repair",
+        "service",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "formattedAddress": "446 B Western Ave, Brighton, MA 02135, USA",
+      "displayName": {
+        "text": "Factory Auto Service",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

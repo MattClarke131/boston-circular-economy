@@ -1,0 +1,251 @@
+{
+  "places": [
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "281 Franklin St, Boston, MA 02110, USA",
+      "displayName": {
+        "text": "David's Instant Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "126 Bowdoin St, Boston, MA 02108, USA",
+      "displayName": {
+        "text": "Beacon Hill Instant Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "2 Oliver St, Boston, MA 02109, USA",
+      "displayName": {
+        "text": "Boston Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "shoe_store",
+        "health",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "101 Summer St, Boston, MA 02110, USA",
+      "displayName": {
+        "text": "Colonial Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "27 Court Square, Boston, MA 02108, USA",
+      "displayName": {
+        "text": "Odessa Instant Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "219 Newbury St, Boston, MA 02116, USA",
+      "displayName": {
+        "text": "Newbury Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "120 Union Pk St, Boston, MA 02118, USA",
+      "displayName": {
+        "text": "George's Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "31 St James Ave, Boston, MA 02116, USA",
+      "displayName": {
+        "text": "Rinaldi’s Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "151 Tremont St, Boston, MA 02111, USA",
+      "displayName": {
+        "text": "Santacross Distinctive Shoe",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "shoe_store",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "20 Broadway, Somerville, MA 02145, USA",
+      "displayName": {
+        "text": "Instant Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "800 Boylston St #5, Boston, MA 02199, USA",
+      "displayName": {
+        "text": "Boston Instant Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "168 Brighton Ave, Allston, MA 02134, USA",
+      "displayName": {
+        "text": "Morris Shoe Repair & Leather",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1304 Massachusetts Ave, Cambridge, MA 02138, USA",
+      "displayName": {
+        "text": "Felix Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "3 Alton Pl #6423, Brookline, MA 02446, USA",
+      "displayName": {
+        "text": "Alton Place Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1105 Massachusetts Ave, Cambridge, MA 02138, USA",
+      "displayName": {
+        "text": "Cambridge Shoe & Luggage Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "42 Prospect St, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "Jimmy's Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "84 Charles St #1, Boston, MA 02114, USA",
+      "displayName": {
+        "text": "Ares Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "483 River St, Mattapan, MA 02126, USA",
+      "displayName": {
+        "text": "Mike's Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1349 Centre St, Newton Centre, MA 02459, USA",
+      "displayName": {
+        "text": "Pelham Shoe Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "2043 Centre St, West Roxbury, MA 02132, USA",
+      "displayName": {
+        "text": "General Shoe Repair Store",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

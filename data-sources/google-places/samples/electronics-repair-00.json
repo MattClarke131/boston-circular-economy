@@ -1,0 +1,268 @@
+{
+  "places": [
+    {
+      "types": [
+        "electronics_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "33 Norwood St, Everett, MA 02149, USA",
+      "displayName": {
+        "text": "Tech Exchange and Repair LLC",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "151 Tremont St, Boston, MA 02111, USA",
+      "displayName": {
+        "text": "Dr Phil Repair Center",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1560 Dorchester Ave, Boston, MA 02122, USA",
+      "displayName": {
+        "text": "Gadget Repair King Wireless",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "electronics_store",
+        "consultant",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "616 Hyde Park Ave, Roslindale, MA 02131, USA",
+      "displayName": {
+        "text": "DigiTech Electronic Solutions",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "200 N Market St, Boston, MA 02109, USA",
+      "displayName": {
+        "text": "Gadget Street",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "69 Holland St, Somerville, MA 02144, USA",
+      "displayName": {
+        "text": "Davis Tech Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "consultant",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "319A Centre St, Jamaica Plain, MA 02130, USA",
+      "displayName": {
+        "text": "JP WIRELESS",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "298 Brighton St, Belmont, MA 02478, USA",
+      "displayName": {
+        "text": "Advanced TV",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "consultant",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "323 Washington St, Newton, MA 02458, USA",
+      "displayName": {
+        "text": "TechRescue",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "361 Cambridge St, Cambridge, MA 02141, USA",
+      "displayName": {
+        "text": "iFixOnWheelz.com",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "70 Franklin St #1, Boston, MA 02110, USA",
+      "displayName": {
+        "text": "uBreakiFix - Phone and Computer Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "19 Salem St, Medford, MA 02155, USA",
+      "displayName": {
+        "text": "Pro Repair LLC",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1152 Dorchester Ave, Boston, MA 02125, USA",
+      "displayName": {
+        "text": "Cabral Computers & Electronics Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "246 N Beacon St, Watertown, MA 02472, USA",
+      "displayName": {
+        "text": "Aztech Electronics Inc",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1951 Columbus Ave, Boston, MA 02119, USA",
+      "displayName": {
+        "text": "Sanchez Computer Tech",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "electronics_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "139 Main St, Everett, MA 02149, USA",
+      "displayName": {
+        "text": "Everett Computer Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1409 Dorchester Ave, Dorchester, MA 02122, USA",
+      "displayName": {
+        "text": "Vinh's TV",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "250 Granite St, Braintree, MA 02184, USA",
+      "displayName": {
+        "text": "Appcessories Electronics - Phone, Computer & Tablet Repair Service",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "950 Massachusetts Ave, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "uBreakiFix - Phone and Computer Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "cell_phone_store",
+        "point_of_interest",
+        "store",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "66 Harvard Ave, Boston, MA 02134, USA",
+      "displayName": {
+        "text": "Easy Fix LLC",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

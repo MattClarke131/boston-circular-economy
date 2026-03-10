@@ -1,0 +1,1010 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.10 2d4cfc48",
+  "osm3s": {
+    "timestamp_osm_base": "2026-03-10T15:51:14Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 1546690479,
+      "lat": 42.3947393,
+      "lon": -71.1216433,
+      "tags": {
+        "addr:city": "Somerville",
+        "addr:housenumber": "230",
+        "addr:postcode": "02144",
+        "addr:state": "MA",
+        "addr:street": "Elm Street",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "check_date": "2025-12-15",
+        "contact:website": "http://www.goodwillmass.org/",
+        "fax": "+1-617-623-9080",
+        "name": "Goodwill",
+        "opening_hours": "Mo-We 10:00-18:00; Th-Sa 10:00-19:00; Su 12:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1-617-628-3618",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2298266051,
+      "lat": 42.3120460,
+      "lon": -71.1140475,
+      "tags": {
+        "addr:housenumber": "678",
+        "addr:street": "Centre Street",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "name": "Goodwill",
+        "opening_hours": "Mo-We 9:00-18:00; Th-Sa 9:00-19:00; Su 12:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1617-522-1415",
+        "shop": "charity",
+        "website": "https://www.goodwill.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2707308542,
+      "lat": 42.3641243,
+      "lon": -71.1019370,
+      "tags": {
+        "addr:city": "Cambridge",
+        "addr:housenumber": "520",
+        "addr:postcode": "02139",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "contact:website": "https://www.goodwillmass.org/store-hours-locations/",
+        "fax": "+1-617-864-8936",
+        "name": "Goodwill",
+        "opening_hours": "Mo-Sa 11:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "payment:cash": "yes",
+        "payment:visa": "yes",
+        "phone": "+1-617-868-6330",
+        "second_hand": "only",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/store-hours-locations/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2707308543,
+      "lat": 42.3647282,
+      "lon": -71.1022260,
+      "tags": {
+        "addr:city": "Cambridge",
+        "addr:housenumber": "563",
+        "addr:postcode": "02139",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "check_date": "2025-12-15",
+        "level": "0",
+        "name": "Boomerangs",
+        "opening_hours": "Tu-Su 10:00-17:00",
+        "phone": "+1-617-749-4278",
+        "shop": "second_hand",
+        "website": "https://shop.mtwyouth.org/pages/boomerangs"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2812075301,
+      "lat": 42.2176765,
+      "lon": -70.9366509,
+      "tags": {
+        "addr:housenumber": "176A",
+        "addr:street": "Middle Street",
+        "name": "Tighten Up Tailors",
+        "phone": "+1 508-496-8811",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400360738,
+      "lat": 42.3518055,
+      "lon": -71.1193275,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "965",
+        "addr:postcode": "02215",
+        "addr:state": "MA",
+        "addr:street": "Commonwealth Avenue",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "check_date": "2025-08-02",
+        "fax": "+1-617-254-0117",
+        "name": "Goodwill",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 12:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1-617-254-0112",
+        "second_hand": "only",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400368765,
+      "lat": 42.3311770,
+      "lon": -71.0801264,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "1010",
+        "addr:street": "Harrison Avenue",
+        "alt_name": "Morgan Memorial Goodwill",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "contact:website": "https://www.goodwillmass.org/store-hours-locations/",
+        "fax": "+1-617-541-1470",
+        "name": "Goodwill",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1-617-541-1270",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/store-hours-locations/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3400374541,
+      "lat": 42.3360032,
+      "lon": -71.0460386,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "470",
+        "addr:postcode": "02127",
+        "addr:state": "MA",
+        "addr:street": "West Broadway",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "contact:website": "https://www.goodwillmass.org/store-hours-locations/",
+        "fax": "+1-617-307-6368",
+        "name": "Goodwill",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1-617-307-6367",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/store-hours-locations/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3499668823,
+      "lat": 42.4057193,
+      "lon": -71.1416114,
+      "tags": {
+        "name": "The Little Fox Children's Resale Shop",
+        "note": "Shop is located inside Fox Library.",
+        "shop": "second_hand",
+        "website": "https://www.littlefoxshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4035718727,
+      "lat": 42.3082781,
+      "lon": -71.1153647,
+      "tags": {
+        "addr:city": "Jamaica Plain",
+        "addr:housenumber": "40",
+        "addr:postcode": "02130",
+        "addr:state": "MA",
+        "addr:street": "South Street",
+        "contact:facebook": "https://www.facebook.com/40southvintage",
+        "email": "hilken@fortysouthst.com",
+        "name": "40 South St. Vintage",
+        "opening_hours": "Th-Fr 12:00-18:00; Sa 11:00-18:00; Su 12:00-17:00",
+        "phone": "+1-617-522-5066",
+        "second_hand": "only",
+        "shop": "second_hand",
+        "website": "https://www.fortysouthst.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4137279570,
+      "lat": 42.3717934,
+      "lon": -71.0987096,
+      "tags": {
+        "addr:housenumber": "164A",
+        "addr:street": "Hampshire Street",
+        "name": "Ali Cleaners",
+        "opening_hours": "Mo-Sa 10:00-18:00",
+        "phone": "+16173547455",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5197250407,
+      "lat": 42.3461535,
+      "lon": -71.0874091,
+      "tags": {
+        "alt_name": "Guitar Center Rentals & Rentals",
+        "level": "0",
+        "name": "GC Garage",
+        "opening_hours": "Mo-Fr 11:00-19:00;Sa 10:00-19:00;Su 12:00-19:00",
+        "rental": "yes",
+        "repair": "yes",
+        "shop": "musical_instrument"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5372431948,
+      "lat": 42.4236979,
+      "lon": -71.1757635,
+      "tags": {
+        "addr:city": "Arlington",
+        "addr:housenumber": "1193B",
+        "addr:postcode": "02476",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "contact:facebook": "https://www.facebook.com/Collins-Office-Systems-Inc-339885679357635/",
+        "contact:fax": "+1-781-648-1628",
+        "contact:phone": "+1-781-648-1323",
+        "contact:website": "http://www.collinsofficesystems.net",
+        "description": "Typewriter Ribbons, Office Equipment Leasing, Printer Repair, Fax Machine, Laminating Machine Repair , Copy Machine Repair, Shredding Machines , Office Supply Sales, Toner Cartridges , Typewriter Repair",
+        "name": "Collins Office Systems, Inc.",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-13:00",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:discover_card": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "repair": "yes",
+        "shop": "computer"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6080865116,
+      "lat": 42.3896994,
+      "lon": -71.1200336,
+      "tags": {
+        "check_date:opening_hours": "2024-02-15",
+        "name": "Jack's Tailoring & Dry Cleaning",
+        "opening_hours": "Mo-Sa 09:00-15:00",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6117499350,
+      "lat": 42.3820527,
+      "lon": -71.1017845,
+      "tags": {
+        "addr:housenumber": "429",
+        "addr:street": "Somerville Avenue",
+        "check_date": "2025-06-16",
+        "name": "High Energy Vintage",
+        "operator": "Wiley",
+        "shop": "second_hand",
+        "website": "http://www.discovisionvintage.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6124523715,
+      "lat": 42.3686037,
+      "lon": -71.1095757,
+      "tags": {
+        "name": "Retrospect",
+        "shop": "second_hand",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6124523725,
+      "lat": 42.3675429,
+      "lon": -71.1074290,
+      "tags": {
+        "addr:city": "Cambridge",
+        "addr:postcode": "02139",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "name": "Aroush's Tailoring",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7533863119,
+      "lat": 42.3508689,
+      "lon": -71.0769398,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "138",
+        "addr:postcode": "02116",
+        "addr:state": "MA",
+        "addr:street": "Newbury Street",
+        "addr:unit": "2nd Floor",
+        "email": "allfittailoring@yahoo.com",
+        "level": "1",
+        "name": "All Fit Tailoring",
+        "opening_hours:covid19": "off",
+        "phone": "+1-617-236-1984",
+        "shop": "tailor",
+        "website": "https://www.allfittailoring.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7731913264,
+      "lat": 42.3512868,
+      "lon": -71.0787907,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "160A",
+        "addr:postcode": "02116",
+        "addr:state": "MA",
+        "addr:street": "Commonwealth Avenue",
+        "email": "BackBayTailors@gmail.com",
+        "name": "Back Bay Tailors",
+        "phone": "+1-617-670-0912",
+        "shop": "tailor",
+        "website": "http://backbaytailors.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7774760074,
+      "lat": 42.3495389,
+      "lon": -71.0836596,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "271",
+        "addr:postcode": "02116",
+        "addr:state": "MA",
+        "addr:street": "Newbury Street",
+        "addr:unit": "2nd Floor",
+        "contact:facebook": "https://www.facebook.com/Jordan-The-Tailor-191765987539159/",
+        "email": "jordanthetailor@yahoo.com",
+        "level": "1",
+        "name": "Jordan The Tailor",
+        "phone": "+1-617-536-2929",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7830837827,
+      "lat": 42.3592907,
+      "lon": -71.0705264,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "109",
+        "addr:postcode": "02114",
+        "addr:state": "MA",
+        "addr:street": "Charles Street",
+        "contact:facebook": "https://www.facebook.com/CovetBoston/",
+        "contact:instagram": "https://www.instagram.com/covetboston/",
+        "email": "info@covetboston.com",
+        "level": "0",
+        "name": "Covet",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su 10:00-18:00",
+        "phone": "+1-617-530-1111",
+        "second_hand": "yes",
+        "shop": "second_hand",
+        "stroller": "yes",
+        "website": "https://covetboston.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7830837830,
+      "lat": 42.3484036,
+      "lon": -71.0863774,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "332",
+        "addr:postcode": "02115",
+        "addr:state": "MA",
+        "addr:street": "Newbury Street",
+        "email": "info@thriveexchange.net",
+        "name": "Thrive Exchange",
+        "opening_hours": "Mo-Sa 12:00-20:00; Su 12:00-17:00",
+        "second_hand": "yes",
+        "shop": "second_hand",
+        "website": "https://thriveexchange.net/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7863253940,
+      "lat": 42.3443769,
+      "lon": -71.0826159,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "150",
+        "addr:postcode": "02115",
+        "addr:state": "MA",
+        "addr:street": "Huntington Avenue",
+        "name": "M3 Tailored Menswear",
+        "phone": "+1-617-266-3330",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8143950915,
+      "lat": 42.2915615,
+      "lon": -71.1860741,
+      "tags": {
+        "addr:city": "Newton",
+        "addr:housenumber": "663",
+        "addr:postcode": "02459",
+        "addr:state": "MA",
+        "addr:street": "Saw Mill Brook Parkway",
+        "name": "Oak Hill Cleaners & Tailors",
+        "opening_hours": "07:00-18:30",
+        "phone": "+1 617-527-9857",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9007063613,
+      "lat": 42.2201310,
+      "lon": -71.1876731,
+      "tags": {
+        "addr:housenumber": "250",
+        "addr:street": "Washington Street",
+        "name": "Westwood Tailor Shop",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9175191760,
+      "lat": 42.3113487,
+      "lon": -71.1146906,
+      "tags": {
+        "addr:city": "Jamaica Plain",
+        "addr:housenumber": "713-715",
+        "addr:postcode": "02130",
+        "addr:state": "MA",
+        "addr:street": "Centre Street",
+        "name": "Diversity Consignment",
+        "phone": "+1 617-942-2672",
+        "shop": "second_hand",
+        "source": "esri/Boston_MA_Addresses",
+        "website": "https://www.diversityconsign.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9659819117,
+      "lat": 42.3519623,
+      "lon": -71.1276676,
+      "tags": {
+        "addr:city": "Allston",
+        "addr:housenumber": "6",
+        "addr:postcode": "02134",
+        "addr:state": "MA",
+        "addr:street": "Fordham Road",
+        "brand": "Apple",
+        "check_date": "2025-02-03",
+        "computer:brand": "Apple",
+        "computer:repair": "yes",
+        "computer:sales": "yes;used",
+        "contact:facebook": "https://www.facebook.com/p/The-Computer-Loft-100063792390864/",
+        "email": "service@computerloft.com",
+        "end_date": "2025-05-09",
+        "name": "The Computer Loft",
+        "not:brand:wikidata": "Q421253",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa,Su off",
+        "operator": "Craig Marin",
+        "phone": "+1-617-782-9997",
+        "repair": "yes",
+        "second_hand": "yes",
+        "shop": "computer",
+        "website": "https://www.computerloft.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9681496791,
+      "lat": 42.2741954,
+      "lon": -71.0243608,
+      "tags": {
+        "addr:city": "Quincy",
+        "addr:housenumber": "66",
+        "addr:postcode": "02171",
+        "addr:state": "MA",
+        "addr:street": "Billings Road",
+        "name": "Guangdong Tailor",
+        "operator": "Lily",
+        "payment:cash": "yes",
+        "phone": "+1 339-205-0369",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9683283046,
+      "lat": 42.2522661,
+      "lon": -70.9893479,
+      "tags": {
+        "addr:city": "Quincy",
+        "addr:housenumber": "625",
+        "addr:postcode": "02169",
+        "addr:state": "MA",
+        "addr:street": "Southern Artery",
+        "air_conditioning": "yes",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "description": "Long-standing nonprofit chain with a range of pre-owned clothing, housewares & more.",
+        "name": "Goodwill",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "phone": "+1 617-745-4144",
+        "second_hand": "yes",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9738720979,
+      "lat": 42.2628359,
+      "lon": -71.0123538,
+      "tags": {
+        "name": "Bright Cleaners",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10891754771,
+      "lat": 42.3644068,
+      "lon": -71.1024387,
+      "tags": {
+        "addr:city": "Cambridge",
+        "addr:housenumber": "550",
+        "addr:postcode": "02139",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "check_date": "2025-10-23",
+        "email": "contact@gabaryalterations.com",
+        "level": "1",
+        "name": "Gabary House of Alterations",
+        "phone": "+1 617 714 3920",
+        "shop": "tailor",
+        "website": "https://gabaryalterations.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10963939383,
+      "lat": 42.3541543,
+      "lon": -71.0560808,
+      "tags": {
+        "name": "Raymond Personal Tailor",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11012642312,
+      "lat": 42.3788591,
+      "lon": -71.0279757,
+      "tags": {
+        "name": "Hidden Treasures",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11052959205,
+      "lat": 42.4594578,
+      "lon": -71.0688161,
+      "tags": {
+        "addr:postcode": "02176",
+        "name": "Trinity Church Thrift Shop",
+        "opening_hours": "Tu, Th 10:00-12:00; Mo 06:30-20:00; Sa 09:00-11:30",
+        "shop": "second_hand",
+        "website": "https://trinitymelrose.org/thrift-shop/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11151935994,
+      "lat": 42.3606198,
+      "lon": -71.1856719,
+      "tags": {
+        "addr:housenumber": "129",
+        "addr:street": "Galen Street",
+        "name": "Rosa's Customized Tailoring",
+        "phone": "+1 617 926 2424",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11161916061,
+      "lat": 42.2620710,
+      "lon": -71.1085238,
+      "tags": {
+        "addr:housenumber": "892",
+        "addr:street": "River Street",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "name": "Goodwill",
+        "opening_hours": "Mo-We 9:00-18:00; Th-Sa 9:00-19:00; Su 12:00-18:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "phone": "+1617-752-8500",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/store-hours-locations/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11163984431,
+      "lat": 42.3301899,
+      "lon": -71.1919595,
+      "tags": {
+        "name": "The Finer Consigner",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11168751394,
+      "lat": 42.3801000,
+      "lon": -71.0971414,
+      "tags": {
+        "name": "Union Square Tailoring",
+        "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-17:00",
+        "phone": "+1-617-776-5699",
+        "shop": "tailor",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11170906437,
+      "lat": 42.3796776,
+      "lon": -71.0981297,
+      "tags": {
+        "addr:housenumber": "21",
+        "addr:postcode": "02143",
+        "addr:street": "Hawkins Street",
+        "check_date:opening_hours": "2025-10-31",
+        "name": "Make & Mend",
+        "name:en": "Make & Mend - Secondhand Art & Craft Supplies",
+        "opening_hours": "Mo-Th 11:00-18:00; Fr-Sa 11:00-19:00",
+        "shop": "second_hand",
+        "website": "https://makeandmendshop.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11476490185,
+      "lat": 42.4592577,
+      "lon": -71.0224512,
+      "tags": {
+        "brand": "Savers",
+        "brand:wikidata": "Q7428188",
+        "check_date": "2020-10-14",
+        "name": "Savers",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12073829464,
+      "lat": 42.2847231,
+      "lon": -71.1101617,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "606",
+        "addr:postcode": "02131",
+        "addr:state": "MA",
+        "addr:street": "American Legion Highway",
+        "name": "Urban Renewals",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 12:00-17:00",
+        "shop": "second_hand",
+        "website": "https://familythrift.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12096267843,
+      "lat": 42.3708639,
+      "lon": -71.1141901,
+      "tags": {
+        "addr:city": "Cambridge",
+        "addr:housenumber": "1134",
+        "addr:postcode": "02318",
+        "addr:state": "MA",
+        "addr:street": "Massachusetts Avenue",
+        "check_date": "2025-09-06",
+        "name": "Arrow",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12119285201,
+      "lat": 42.3523687,
+      "lon": -71.1282880,
+      "tags": {
+        "addr:postcode": "02134",
+        "contact:facebook": "groovythrifty",
+        "contact:instagram": "groovythrifty",
+        "name": "Groovy Thrifty",
+        "opening_hours": "We-Fr 12:00-18:00; Sa 11:00-16:00; Su 11:00-15:00",
+        "shop": "second_hand",
+        "website": "https://groovythrifty.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12663972120,
+      "lat": 42.3515579,
+      "lon": -71.0759317,
+      "tags": {
+        "addr:city": "Boston",
+        "addr:housenumber": "234",
+        "addr:postcode": "02116",
+        "addr:state": "MA",
+        "addr:street": "Clarendon Street",
+        "name": "Newbury Tailor Co",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 12881578600,
+      "lat": 42.3431171,
+      "lon": -71.1225430,
+      "tags": {
+        "branch": "USA",
+        "brand": "2nd STREET",
+        "brand:en": "2nd STREET",
+        "brand:ja": "セカンドストリート",
+        "brand:wikidata": "Q11314186",
+        "name": "2nd STREET",
+        "name:en": "2nd STREET",
+        "name:ja": "セカンドストリート",
+        "second_hand": "only",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13121899899,
+      "lat": 42.3430306,
+      "lon": -71.1237436,
+      "tags": {
+        "addr:city": "Brookline",
+        "addr:housenumber": "318",
+        "addr:postcode": "02446",
+        "addr:state": "MA",
+        "addr:street": "Harvard Street",
+        "addr:unit": "12",
+        "name": "Zipper Hospital",
+        "payment:cash": "yes",
+        "shop": "tailor",
+        "website": "zipperhospital.com"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13147907195,
+      "lat": 42.3895781,
+      "lon": -71.1167659,
+      "tags": {
+        "addr:housenumber": "95",
+        "addr:street": "Elm Street",
+        "name": "The Portal Vintage",
+        "shop": "second_hand"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13157319481,
+      "lat": 42.3431882,
+      "lon": -71.1236067,
+      "tags": {
+        "addr:city": "Brookline",
+        "addr:housenumber": "318",
+        "addr:postcode": "02446",
+        "addr:state": "MA",
+        "addr:street": "Harvard Street",
+        "addr:unit": "#2",
+        "name": "Maria's Experienced Alterations",
+        "phone": "+16172771534",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13191532924,
+      "lat": 42.4595252,
+      "lon": -71.1613900,
+      "tags": {
+        "branch": "Donation Center",
+        "brand": "Goodwill",
+        "brand:wikidata": "Q5583655",
+        "name": "Goodwill",
+        "opening_hours": "Mo-Su 8:00-16:00",
+        "operator": "Morgan Memorial Goodwill Industries",
+        "operator:wikidata": "Q54556334",
+        "shop": "charity",
+        "website": "https://www.goodwillmass.org/donation-center-hours-locations/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13235228050,
+      "lat": 42.4215228,
+      "lon": -71.1342243,
+      "tags": {
+        "name": "HK Tailoring",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13440649742,
+      "lat": 42.3772055,
+      "lon": -71.1635815,
+      "tags": {
+        "name": "Hemmingway Tailoring - Alterations",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "node",
+      "id": 13530066942,
+      "lat": 42.3487031,
+      "lon": -71.1552671,
+      "tags": {
+        "addr:city": "Brighton",
+        "addr:housenumber": "404",
+        "addr:postcode": "02135",
+        "addr:state": "MA",
+        "addr:street": "Washington Street",
+        "name": "Nearly New Thrift Store",
+        "opening_hours": "We 14:00-18:00, Fr 10:00-13:30, Sa 10:00-13:30",
+        "operator": "Brighton-Allston Congregational Church",
+        "shop": "second_hand",
+        "website": "https://www.brightonallstonucc.org/thrift-store"
+      }
+    },
+    {
+      "type": "way",
+      "id": 29764369,
+      "center": {
+        "lat": 42.3874246,
+        "lon": -71.0064254
+      },
+      "nodes": [
+        327847494,
+        327847498,
+        327847500,
+        327847503,
+        327847494
+      ],
+      "tags": {
+        "addr:housenumber": "9",
+        "addr:street": "Breed Street",
+        "building": "yes",
+        "shop": "tailor"
+      }
+    },
+    {
+      "type": "way",
+      "id": 196453017,
+      "center": {
+        "lat": 42.4203054,
+        "lon": -71.1666562
+      },
+      "nodes": [
+        2067843808,
+        2067845054,
+        2067845034,
+        2067843794,
+        2067843808
+      ],
+      "tags": {
+        "addr:city": "Arlington",
+        "addr:housenumber": "36",
+        "addr:postcode": "02476",
+        "addr:state": "MA",
+        "addr:street": "Dudley Street",
+        "building": "yes",
+        "name": "Bruce's Tire & Services Inc",
+        "repair": "yes",
+        "shop": "tyres"
+      }
+    },
+    {
+      "type": "way",
+      "id": 674356526,
+      "center": {
+        "lat": 42.4626283,
+        "lon": -70.9473823
+      },
+      "nodes": [
+        6315476620,
+        6315476621,
+        6315476622,
+        6315472489,
+        6310057333,
+        6315476623,
+        6315476620
+      ],
+      "tags": {
+        "addr:city": "Lynn",
+        "addr:housenumber": "10",
+        "addr:postcode": "01901",
+        "addr:state": "MA",
+        "addr:street": "Munroe Street",
+        "brand": "The Salvation Army",
+        "brand:wikidata": "Q188307",
+        "building": "yes",
+        "name": "The Salvation Army",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "phone": "+18007287825",
+        "shop": "charity",
+        "website": "https://satruck.org/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1195624141,
+      "center": {
+        "lat": 42.3694871,
+        "lon": -71.1524133
+      },
+      "nodes": [
+        11097239228,
+        11097239227,
+        329756953,
+        329724880,
+        329466512,
+        329480346,
+        11097239228
+      ],
+      "tags": {
+        "addr:housenumber": "79",
+        "addr:street": "Grove Street",
+        "building": "yes",
+        "name": "City Pump & Motor Service Inc.",
+        "repair": "pump;motor",
+        "shop": "repair"
+      }
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "places": [
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "656 Ocean Ave APT 621, Revere, MA 02151, USA",
+      "displayName": {
+        "text": "Fasteny Appliance Repair LLC",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "67 Maplewood St Unit 112, Malden, MA 02148, USA",
+      "displayName": {
+        "text": "Master of Appliances Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "200 Rivers Edge Dr Suite 336, Medford, MA 02155, USA",
+      "displayName": {
+        "text": "Stocker Appliance Repair LLC",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "119 Braintree St Ste 405, Boston, MA 02134, USA",
+      "displayName": {
+        "text": "Same Day Appliance Repair®️",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "225 Northern Ave, Boston, MA 02210, USA",
+      "displayName": {
+        "text": "Mass Appliance Masters",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "175 Freeman St, Brookline, MA 02446, USA",
+      "displayName": {
+        "text": "ALAN’S BRAND APPLIANCE REPAIR",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "55 Bradshaw St, Watertown, MA 02472, USA",
+      "displayName": {
+        "text": "Belmont Appliance Service",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "75 Wolcott St, Malden, MA 02148, USA",
+      "displayName": {
+        "text": "Pro Appliance Express",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "160 Alewife Brook Pkwy #1328, Cambridge, MA 02138, USA",
+      "displayName": {
+        "text": "UltraFix Appliance Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "187 Bow St, Everett, MA 02149, USA",
+      "displayName": {
+        "text": "MasterFix Appliance Repair LLC",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "464 Common St, Belmont, MA 02478, USA",
+      "displayName": {
+        "text": "At Your Service Appliance Repair",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "13 Tacoma St, Lynn, MA 01905, USA",
+      "displayName": {
+        "text": "Fast Appliance Repairs",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "general_contractor",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "110 Academy Hill Rd, Boston, MA 02135, USA",
+      "displayName": {
+        "text": "ABV Appliance Service",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1 Presidential Way, Woburn, MA 01801, USA",
+      "displayName": {
+        "text": "Same Day Service Company., Inc.",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "320 Washington St, Brighton, MA 02135, USA",
+      "displayName": {
+        "text": "Aytech Appliance Services",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "Eds Appliance Service, 67 Piedmont St, Arlington, MA 02476, USA",
+      "displayName": {
+        "text": "Ed's Appliance Service",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "5 Repton Pl UNIT 5110, Watertown, MA 02472, USA",
+      "displayName": {
+        "text": "Sub-zero, Wolf and Viking Appliance services",
+        "languageCode": "en"
+      }
+    }
+  ]
+}

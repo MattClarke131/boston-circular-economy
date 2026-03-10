@@ -1,0 +1,273 @@
+{
+  "places": [
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "1010 Harrison Ave, Boston, MA 02119, USA",
+      "displayName": {
+        "text": "Morgan Memorial Goodwill Industries",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "thrift_store",
+        "discount_store",
+        "association_or_organization",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "487 Broadway, Somerville, MA 02145, USA",
+      "displayName": {
+        "text": "The Salvation Army Family Store & Donation Center",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "1500 Washington St, Boston, MA 02118, USA",
+      "displayName": {
+        "text": "The Salvation Army",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "225 Franklin St, Boston, MA 02110, USA",
+      "displayName": {
+        "text": "Make-A-Wish Car Donation",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "Gateway Center opp, Texas Roadhouse, Everett, MA 02149, USA",
+      "displayName": {
+        "text": "Helpsy Donation Box",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "400 Shawmut Ave, Boston, MA 02118, USA",
+      "displayName": {
+        "text": "Room to Grow",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "184 High St 3rd floor, Boston, MA 02110, USA",
+      "displayName": {
+        "text": "Big Brothers Big Sisters of Eastern Massachusetts",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "77 N Washington St, Boston, MA 02114, USA",
+      "displayName": {
+        "text": "Together She Can",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "330 River St, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "Red Cross Clothing Donation Bin",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "40 Broad St, Boston, MA 02109, USA",
+      "displayName": {
+        "text": "Boston Car Donation",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "434 Massachusetts Ave Suite 201, Boston, MA 02118, USA",
+      "displayName": {
+        "text": "Habitat for Humanity Greater Boston",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "thrift_store",
+        "discount_store",
+        "clothing_store",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "965 Commonwealth Ave, Boston, MA 02135, USA",
+      "displayName": {
+        "text": "The Goodwill Store",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "10 Post Office Square, Boston, MA 02109, USA",
+      "displayName": {
+        "text": "Vehicles For Veterans",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "moving_company",
+        "shipping_service",
+        "association_or_organization",
+        "storage",
+        "transportation_service",
+        "store",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "formattedAddress": "25 Northern Ave, Boston, MA 02210, USA",
+      "displayName": {
+        "text": "The Junkluggers of Greater Boston",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "23 Vernon Street, Roxbury, MA 02119, USA",
+      "displayName": {
+        "text": "The Salvation Army",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "non_profit_organization",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "77 N Washington St # 500, Boston, MA 02114, USA",
+      "displayName": {
+        "text": "Oxfam America",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "16 Hurd Rd, Brookline, MA 02445, USA",
+      "displayName": {
+        "text": "St Vincent de Paul Clothing Collection Bin",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "134 Norfolk St, Cambridge, MA 02139, USA",
+      "displayName": {
+        "text": "Clothing and Shoes Donation Box",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "80 Blossom St, Boston, MA 02114, USA",
+      "displayName": {
+        "text": "Massachusetts General Hospital Blood Donor Center",
+        "languageCode": "en"
+      }
+    },
+    {
+      "types": [
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "formattedAddress": "349 Commercial St, Medford, MA 02155, USA",
+      "displayName": {
+        "text": "Planet Aid Donation Box",
+        "languageCode": "en"
+      }
+    }
+  ]
+}
