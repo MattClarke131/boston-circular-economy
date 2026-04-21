@@ -1,0 +1,9 @@
+[project]
+name = "boston-circular-economy-data-collectors"
+version = "0.1.0"
+description = "Data-collector framework for the Boston Circular Economy project."
+requires-python = ">=3.11"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["framework*", "sources*"]
