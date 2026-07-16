@@ -7,7 +7,7 @@ Data pipeline for collecting, normalizing, and storing circular economy location
 ```mermaid
 flowchart LR
     Q["Querier\nfetch()"] -->|RawLocation| N["Normalizer\nnormalize()"]
-    N -->|NormalizedLocation| I["Ingester\ningest()"]
+    N -->|NormalizedLocation| I["DataStore\nwrite_source_snapshot()"]
     I --> DB[(Database)]
 
     classDef source fill:#1D9E75,stroke:#0F6E56,color:#E1F5EE
@@ -17,7 +17,7 @@ flowchart LR
     class DB sourceTable
 ```
 
-Each pipeline has a **Querier** that fetches raw data from a source and a **Normalizer** that maps it to the shared schema. The **Ingester** is shared across pipelines and handles persistence.
+Each pipeline has a **Querier** that fetches raw data from a source and a **Normalizer** that maps it to the shared schema. The **DataStore** is shared across pipelines and handles persistence.
 
 ## Adding a pipeline
 
@@ -44,9 +44,9 @@ Key behaviors:
 
 - **`normalize()`** — maps each `RawLocation` payload to a `NormalizedLocation`, translating source-specific field names and formats into the shared schema.
 
-## Ingester
+## DataStore
 
-The [`Ingester`](base/ingester.py) accepts `NormalizedLocation` records and writes them to the database. It is shared across all pipelines — you do not implement it per source.
+The [`DataStore`](base/ingester.py) reads and writes data for persistant storage. It is shared across all pipelines — you do not implement it per source.
 
 Key behaviors:
 
