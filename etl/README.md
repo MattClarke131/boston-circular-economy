@@ -50,6 +50,6 @@ The [`DataStore`](base/ingester.py) reads and writes data for persistant storage
 
 Key behaviors:
 
-- **`ingest()`** — writes a list of `NormalizedLocation` records to the database.
-  - **Deduplication** — records are keyed on `(data_source, data_source_id)`. Existing records are updated in place; new records are inserted.
+- **`write_source_snapshot()`** — writes a list of `NormalizedLocation` records to the database.
+  - **Update or Create** — records are keyed on `(data_source, data_source_id)`. Existing records are updated in place; new records are inserted.
   - **Source** — every record retains its `data_source` and `data_source_id`, which makes cross-source deduplication tractable later without requiring it now.
