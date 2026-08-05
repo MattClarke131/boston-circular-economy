@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from etl.dtos import NormalizedLocation
+from etl.dtos import DataSource, NormalizedLocation
 
 
 class BaseDataStore(ABC):
@@ -11,16 +11,18 @@ class BaseDataStore(ABC):
     @abstractmethod
     def write_source_snapshot(
         self,
-        source: str,
+        source: DataSource,
         normalized_locations: list[NormalizedLocation],
     ) -> None:
+        """Persist a full snapshot of NormalizedLocations for one source."""
         pass
 
     @abstractmethod
     def read_source_snapshot(
         self,
-        source: str,
+        source: DataSource,
     ) -> list[NormalizedLocation]:
+        """Load the latest NormalizedLocation snapshot for one source."""
         pass
 
     @abstractmethod
@@ -28,4 +30,5 @@ class BaseDataStore(ABC):
         self,
         output_locations: list[NormalizedLocation],
     ) -> None:
+        """Persist the merged locations after they've been deduplicated across sources."""
         pass

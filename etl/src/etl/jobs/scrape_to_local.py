@@ -1,3 +1,4 @@
+from etl.dtos import DataSource
 from etl.local_data_store import LocalDataStore
 from etl.sources.google_places.normalizer import GooglePlacesNormalizer
 from etl.sources.google_places.querier import GooglePlacesQuerier
@@ -22,7 +23,7 @@ def main() -> None:
         normalized_locations = normalizer.normalize(raw_locations)
 
         # writes the normalized locations to the local output file
-        store.write_source_snapshot("google_places", normalized_locations)
+        store.write_source_snapshot(DataSource.GOOGLE_PLACES, normalized_locations)
 
     for args in openstreetmap_query_args:
         # queries the OpenStreetMap API
@@ -34,7 +35,7 @@ def main() -> None:
         normalized_locations = normalizer.normalize(raw_locations)
 
         # writes the normalized locations to the local output file
-        store.write_source_snapshot("openstreetmap", normalized_locations)
+        store.write_source_snapshot(DataSource.OPENSTREETMAP, normalized_locations)
 
     print("scrape-to-local finished")
 
